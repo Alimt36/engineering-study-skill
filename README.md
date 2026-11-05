@@ -1,6 +1,6 @@
 # engineering_study_skill
 
-This a claude skill that I made for learning any technical course topic from absolute zero(it will even teach you the prerequisites). Built for exam prep when a course comes with no slides or is low on sources.
+This is a claude skill that I made for learning any technical course topic from absolute zero(it will even teach you the prerequisites). Built for exam prep when a course comes with no slides or is low on sources.
 
 ---
 
@@ -34,7 +34,11 @@ Review, cheat sheet and cross-topic exam questions on request
 type `/engineering-study-skill` then ask what you want to learn, let claude do the rest!
 
 ```
-go  review  practice  deepen X  cheatsheet  exam questions  short
+let's go or go  :  goes to next module
+review          :  reviews the module or the whole session
+practice        :  gives examples and answers  
+deepen X        :  goes deeper in that topic  
+exam questions  :  tries to generate exam-like questions based on what you have provided
 ```
 
 ---
