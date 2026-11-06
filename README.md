@@ -1,4 +1,4 @@
-# engineering_study_skill
+# A skill to help study engineering in hard times.
 
 This is a claude skill that I made for learning any technical course topic from absolute zero(it will even teach you the prerequisites). Built for exam prep when a course comes with no slides or is low on sources.
 
